@@ -16,8 +16,8 @@ ayrıca belirtmek isterim ki duckduckgo, google gibi [verilerinizi toplamıyor](
 
 eklentiyi şu adımlarla kurup listeyi içe aktaralım:
 - öncelikle google search filter eklentisinin tarayıcınıza uygun olan sürümünü kurun: [chrome, opera, yeni edge](https://chrome.google.com/webstore/detail/google-search-filter/eidhkmnbiahhgbgpjpiimdogfidfikgf?hl=tr) | [firefox](https://addons.mozilla.org/tr/firefox/addon/g-search-filter/)
-- eklentiyi kurduktan sonra google.com.tr'ye girin.
-- eklenti google'a girdiğinizde belirecektir. şu linklerden nerede olduğunu görebilirsiniz: [chrome türevi](https://raw.githubusercontent.com/xorcan/temizgoogle/master/dosyalar/chrome.png) | [firefox türevi](https://raw.githubusercontent.com/xorcan/temizgoogle/master/dosyalar/firefox.png)
+- eklentiyi kurduktan sonra `google.com.tr`'ye girin.
+- eklenti google'a girdiğinizde belirecektir. şu linklerden nerede olduğunu görebilirsiniz: [chrome türevi](https://raw.githubusercontent.com/xorcan/temizgoogle/master/dosyalar/firefox.png) | [firefox türevi](https://raw.githubusercontent.com/xorcan/temizgoogle/master/dosyalar/chrome.png)
 - eklentiye tklayınca size bir eşitleme yazısı [girmenizi ister](https://raw.githubusercontent.com/xorcan/temizgoogle/master/dosyalar/ayar.png). bu isme sahip olan herkes ekleme-çıkarma yapabilir. size özel olması açısından bunu olabildiğince karmaşık bir değer yapın.
 - ardından [temizgoogle.txt](https://raw.githubusercontent.com/xorcan/temizgoogle/master/temizgoogle.txt) dosyasının hepsini seçin (ctrl+a) ve eklentideki boş yere yapıştırın.
 
